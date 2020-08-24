@@ -1,1 +1,1 @@
-console.log("clean test")
+console.log("clean")
